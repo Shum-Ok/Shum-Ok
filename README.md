@@ -18,5 +18,4 @@ REACT / MongoDB / GIT
 )
 
 Ниже небольшая статистика о моей страничке
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shum-Ok&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shum-Ok)](https://github.com/anuraghazra/github-readme-stats)
