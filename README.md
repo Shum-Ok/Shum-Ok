@@ -16,5 +16,3 @@ REACT / MongoDB / GIT
 * [Место](https://github.com/Shum-Ok/mesto)
 * [Бургер Чеддер](https://github.com/Shum-Ok/burger-chedder)
 
-Ниже небольшая статистика о моей страничке  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shum-Ok&layout=compact&theme=transparent)
