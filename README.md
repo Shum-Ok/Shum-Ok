@@ -14,8 +14,7 @@ REACT / MongoDB / GIT
 * [Научиться учиться](https://github.com/Shum-Ok/how-to-learn)
 * [Путешествие по России](https://github.com/Shum-Ok/yet-another-project)
 * [Место](https://github.com/Shum-Ok/mesto)
-* [Бургер Чеддер](https://github.com/Shum-Ok/burger-chedder
-)
+* [Бургер Чеддер](https://github.com/Shum-Ok/burger-chedder)
 
 Ниже небольшая статистика о моей страничке  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shum-Ok&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
