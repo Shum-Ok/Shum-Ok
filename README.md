@@ -11,6 +11,7 @@ REACT / MongoDB / GIT
 - 🌱 закончил курс от Bogdan Stashchuk "Полный Курс JavaScript Для Начинающих" в объеме 11ч
 
 Мои проекты:
+* [Научиться учиться](https://github.com/Shum-Ok/how-to-learn)
 * [Путешествие по России](https://github.com/Shum-Ok/yet-another-project)
 * [Место](https://github.com/Shum-Ok/mesto)
 * [Бургер Чеддер](https://github.com/Shum-Ok/burger-chedder
