@@ -13,6 +13,8 @@ REACT / MongoDB / GIT
 Мои проекты:
 * [Путешествие по России](https://github.com/Shum-Ok/yet-another-project)
 * [Место](https://github.com/Shum-Ok/mesto)
+* [Бургер Чеддер](https://github.com/Shum-Ok/burger-chedder
+)
 
 Ниже небольшая статистика о моей страничке
 
