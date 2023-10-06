@@ -14,6 +14,5 @@ REACT / GIT / MongoDB / mongoose / express / express-validator / bcrypt / jsonwe
 * [Научиться учиться](https://github.com/Shum-Ok/how-to-learn)
 * [Путешествие по России](https://github.com/Shum-Ok/yet-another-project)
 * [Место](https://github.com/Shum-Ok/mesto)
-* [Backend для проекта Место]([https://github.com/Shum-Ok/mesto](https://github.com/Shum-Ok/react-mesto-api-full/tree/main/backend)https://github.com/Shum-Ok/react-mesto-api-full/tree/main/backend)
+* [Backend для проекта Место](https://github.com/Shum-Ok/react-mesto-api-full/tree/main/backend)
 * [Бургер Чеддер](https://github.com/Shum-Ok/burger-chedder)
-
